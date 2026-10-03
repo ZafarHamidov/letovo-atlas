@@ -1,2 +1,2 @@
-:HL["/letovo-atlas/_next/static/chunks/2-4zb3d-ao5no.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"6IupZ1B_VAjR60mBNtiVm"}
+:HL["/letovo-atlas/_next/static/chunks/0pja31kssvx93.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Sd1Kvf4OBWea5zKLbQx3N"}

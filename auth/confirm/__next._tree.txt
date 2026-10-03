@@ -1,4 +1,4 @@
-:HL["/letovo-atlas/_next/static/chunks/2bm6rl8ls3ozj.css","style"]
+:HL["/letovo-atlas/_next/static/chunks/1sth3e0us8cpf.css","style"]
 :HL["/letovo-atlas/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/letovo-atlas/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"auth","param":null,"prefetchHints":4192,"slots":{"children":{"name":"confirm","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"NT9WA6aISXUa53OBwL2JI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"auth","param":null,"prefetchHints":4192,"slots":{"children":{"name":"confirm","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"_iDsaO406Zjl3IGE_Cfcu"}

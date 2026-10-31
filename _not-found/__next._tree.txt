@@ -1,4 +1,4 @@
-:HL["/letovo-atlas/_next/static/chunks/1_5i8-0f-g5h3.css","style"]
+:HL["/letovo-atlas/_next/static/chunks/296g04q1m84vc.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"eA9LvJ-jma_D5yf96WqXE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xTWaA4ObopiitkG7tGDTV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
